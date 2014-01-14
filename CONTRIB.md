@@ -13,7 +13,7 @@ Por favor, preencha um ou outro indivíduo ou Acordo de Licença de Colaborador 
    * Se você é uma pessoa que escreve código fonte original e tem certeza que 
      possui a propriedade intelectual, então você terá que nos entregar um [Individual CLA] (http://code.google.com/legal/individual-cla-v1.0.html) baseado nos termos do Google.
    * Se você trabalha para uma empresa que quer permitir que você contribua com sua obra, 
-     então você precisa assinar um [CLA corporativa] (http://code.google.com/legal/corporate-cla-v1.0.html) 
+     então você precisa assinar um [CLA corporativo] (http://code.google.com/legal/corporate-cla-v1.0.html) 
      baseado nos termos do Google.
 
 Uma vez que você aceite e/ou a empresa permita que você contribua conosco, vamos ser capazes
