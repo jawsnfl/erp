@@ -6,7 +6,7 @@ Gostaríamos muito de aceitar seus aplicativos de exemplos e patches!
 Antes que possamos subí-los, temos que tratar de um par de obstáculos legais.
 
 Você colaborando conosco estará aceitando os termos de licença de contribuinte.
-Por favor, preencha um ou outro indivíduo ou Acordo de Licença Colaborador corporativo
+Por favor, preencha um ou outro indivíduo ou Acordo de Licença de Colaborador corporativo
 (CLA).
 
    * Esteja ciente de que o desenvolvimento deste projeto é para fins comerciais.
