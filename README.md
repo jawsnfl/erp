@@ -1,4 +1,4 @@
-10 Admin - ERP Finances System
+10 Admin - ERP Financial System
 ===
 
 Discussão: https://groups.google.com/forum/?hl=pt-BR#!topic/yii-framework-brasil/BIVurEhcxDo
