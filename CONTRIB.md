@@ -29,3 +29,4 @@ A criação/modificação de qualquer tabela de banco de dados deverá seguir os
 4. Tabelas compostas deverão seguir a ordem de leitura, ex: 'users_posts'.
 
 ## Contribuindo um path
+
