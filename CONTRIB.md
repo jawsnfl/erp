@@ -10,8 +10,8 @@ Por favor, preencha um ou outro indivíduo ou Acordo de Licença de Colaborador 
 (CLA).
 
    * Esteja ciente de que o desenvolvimento deste projeto é para fins comerciais.
-   * Se você é uma pessoa escrever o código fonte original e você tem certeza que 
-     possuir a propriedade intelectual, então você terá que nos entregar um [Individual CLA] (http://code.google.com/legal/individual-cla-v1.0.html) baseado nos termos do Google.
+   * Se você é uma pessoa que escreve código fonte original e tem certeza que 
+     possui a propriedade intelectual, então você terá que nos entregar um [Individual CLA] (http://code.google.com/legal/individual-cla-v1.0.html) baseado nos termos do Google.
    * Se você trabalha para uma empresa que quer permitir que você contribua com sua obra, 
      então você precisa assinar um [CLA corporativa] (http://code.google.com/legal/corporate-cla-v1.0.html) 
      baseado nos termos do Google.
