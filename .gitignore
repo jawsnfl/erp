@@ -1,5 +1,11 @@
-/nbproject/private/
+# Ignorando diretórios de IDEs
+nbproject/*
+
+# Ignorando diretório de cache
 assets/*
 !assets/.gitignore
+
+# Ignorando diretório de execução
 protected/runtime/*
 !protected/runtime/.gitignore
+
